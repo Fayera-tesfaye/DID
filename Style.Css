@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    margin-left: 10px;
+    background-color: rgb(70, 201, 120);
+
+}
+.menu{
+    width: 400px;
+    float: left;
+    height: 200px;
+
+}
+.mataduree{
+    text-align: left;
+    font-weight: bold;
+    margin-top: 40px;
+    font-size: 20px;
+    margin-left: 120px;
+    color: blue;
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 20px;
+    font-size: 16px;
+    position: relative;
+     width: 20px;
+     margin-left: 100px;
+}
+.matadureee{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 40px;
+    font-size: 20px;
+    color: rgb(39, 7, 221);
+}
